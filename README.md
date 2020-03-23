@@ -15,4 +15,4 @@ There is a `dieharder` tool, install it by `brew install dieharder`
 
 # Refs:
 
-https://web.archive.org/web/20160119105923/http://stat.fsu.edu/pub/diehard/fortran.tar.gz
+https://web.archive.org/web/20160125103112/http://stat.fsu.edu/pub/diehard/
