@@ -9,6 +9,10 @@ it returns an error of "return". So just follow the message to adjust the `retur
 
 Tested: MacOS
 
+# Windows
+
+Download the `diehard.zip` file
+
 # Note:
 
 There is a `dieharder` tool, install it by `brew install dieharder`
