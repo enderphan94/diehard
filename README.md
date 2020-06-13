@@ -9,6 +9,17 @@ it returns an error of "return". So just follow the message to adjust the `retur
 
 Tested: MacOS
 
+# Execution
+
+1. Compiling the RNG code to get the output file which should be presented as an ASCII format in this case.
+2. Run command 
+`dieharder -a -g 202 -f output.txt` //switch to `-g 201` if the file saved in binary format
+```
+-a runs all the tests with standard/default options to create a user-controllable report
+-f filename - generators 201 or 202 permit either raw binary or formatted  ASCII  numbers  to  be read in from a file for testing
+-g generator number - selects a specific generator for testing
+```
+
 # Windows
 
 Download the `diehard.zip` file
